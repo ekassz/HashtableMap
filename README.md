@@ -1,1 +1,3 @@
-# HashtableMap
+Welcome to my implementation of a hashtable map!
+We'll be using linear probing for this program (store, retrieve and remove key-value pairs, and resizes when load factor becomes too high).
+I was given a rubric to follow and implemented this project from scratch. After implementing the algorithm, I also tested it with 3 JUnit tests on the Put and Get methods to see if the values were returned correctly. I also tested my remove method to ensure that an element would correctly get removed from a map. Lastly I tested my resize method, where I added around 7 elements to see it would correctly return the updated size.
